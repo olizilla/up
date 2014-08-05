@@ -1,0 +1,19 @@
+/* CSS declarations go here */
+html, body{
+  margin:0;
+  padding:0;
+  height:100%;
+}
+body{
+  background: url("/cowballoon.png") no-repeat bottom right;
+}
+header{
+  background: #222;
+  color:white;
+  margin-bottom: 20px;
+}
+header h1{
+  margin:10px 10px 10px 0;
+  display: inline-block;
+}
+
